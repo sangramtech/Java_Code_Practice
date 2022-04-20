@@ -6,6 +6,7 @@ public class GitIntegeration {
 		// TODO Auto-generated method stub
 		System.out.println("Git to GitHub");
 		System.out.println("Added a new branch JavaLearning");
+		System.out.println("Merge completed");
 	}
 
 }
