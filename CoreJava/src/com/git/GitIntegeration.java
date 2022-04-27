@@ -7,7 +7,7 @@ public class GitIntegeration {
 		System.out.println("Git fetch testing");
 		System.out.println("Git fetch without merge testing");
 		System.out.println("Git Pull testing");		
-
+		System.out.println("Git fetch with merge testing");	
 	}
 }
 
