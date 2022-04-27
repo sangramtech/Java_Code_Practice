@@ -6,5 +6,6 @@ public class GitIntegeration {
 		// TODO Auto-generated method stub
 		System.out.println("Git fetch testing");
 		System.out.println("Git Pull testing");		
+		System.out.println("Git fetch with merge testing");	
 	}
 }
