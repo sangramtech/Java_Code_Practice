@@ -1,0 +1,95 @@
+[33mcommit 44727d163d9f1051cec3d71cae903e48c193c8e4[m[33m ([m[1;36mHEAD -> [m[1;32mJuneChanges[m[33m, [m[1;31morigin/JuneChanges[m[33m)[m
+Author: sangramtech <102498822+sangramtech@users.noreply.github.com>
+Date:   Mon Jun 27 20:46:46 2022 -0500
+
+    Update GitIntegeration.java
+    
+    Committing changes.
+
+[33mcommit 010733c03c1102208a19abb7c040882c3f387d7d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Mon Jun 27 20:36:08 2022 -0500
+
+    github comment
+
+[33mcommit 91de5bfb0b0399a41d43fd06e673f21a4c921cfa[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Tue Apr 26 21:46:03 2022 -0500
+
+    testing
+
+[33mcommit c518265d6c434e905211fad9888ae643c623c946[m
+Merge: 95f5a01 45307df
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Tue Apr 26 21:34:19 2022 -0500
+
+    fetch with merge
+
+[33mcommit 45307df81f5d48c494d0b8aee5cd3151a1785ca7[m
+Author: sangramtech <102498822+sangramtech@users.noreply.github.com>
+Date:   Tue Apr 26 21:32:20 2022 -0500
+
+    Fetch with merge
+
+[33mcommit 95f5a014050ecf923cba51aa3b355f8653c79166[m
+Merge: 32c8043 8f94c32
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Tue Apr 26 21:28:57 2022 -0500
+
+    merge changes rfepo
+
+[33mcommit 32c80438b1f1025d6bbc790b18a2d069bc582747[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Tue Apr 26 21:02:26 2022 -0500
+
+    merge testing
+
+[33mcommit 8f94c328efc40aa5fe6a7340bd2d3f158326b4dd[m
+Author: sangramtech <102498822+sangramtech@users.noreply.github.com>
+Date:   Tue Apr 26 20:53:25 2022 -0500
+
+    Pull changes added
+
+[33mcommit ca98148dd32a216d83eabac1b826ba39d777e7ad[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Tue Apr 26 20:50:53 2022 -0500
+
+    new changes for fetch
+
+[33mcommit 0872982351eec678d36ee557136e3f9e223083dc[m
+Author: sangramtech <102498822+sangramtech@users.noreply.github.com>
+Date:   Wed Apr 20 15:15:52 2022 -0500
+
+    Update GitIntegeration.java
+    
+    Adding a change to new branch
+
+[33mcommit f6d8fe790e796240d31366d0f754ac1b57ee73cd[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Wed Apr 20 15:04:58 2022 -0500
+
+    Changes for new branch
+
+[33mcommit 995418583259667be81f7a353569312acff561a6[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Mon Apr 4 21:51:53 2022 -0500
+
+    secondary branch added
+
+[33mcommit f3e16b8a515c96b54f719cf4f8cb1b93b9935e45[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Mon Apr 4 21:42:59 2022 -0500
+
+    test msg
+
+[33mcommit 8aef7e1f92865e6ad4781e1e74ee4896f0326257[m
+Author: sangramtech <sangram.tech2015@gmail.com>
+Date:   Mon Apr 4 21:22:29 2022 -0500
+
+    core java
+
+[33mcommit 5f4f8be13598f127a7cd49c8af9f09eb97a29b8a[m
+Author: sangramtech <102498822+sangramtech@users.noreply.github.com>
+Date:   Mon Apr 4 20:40:48 2022 -0500
+
+    Initial commit
