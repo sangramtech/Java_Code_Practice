@@ -6,6 +6,7 @@ public class GitIntegeration {
 		// TODO Auto-generated method stub
 		System.out.println("GitHub commit");
 		System.out.println("Commited directly in GitHub");
+		System.out.println("Changes from local repo");
 	}
 }
 
